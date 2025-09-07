@@ -23,3 +23,11 @@ I’m MirAqşin Ağahüseynli, Android Developer 👨‍💻
 
 ### 📊 GitHub Stats
 ![MirAqshin2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirAqshin2000&show_icons=true&theme=dark)
+
+
+### 🛠️ Languages & Tools
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
