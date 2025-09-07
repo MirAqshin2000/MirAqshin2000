@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**MirAqshin2000/MirAqshin2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m MirAqşin Ağahüseynli, Android Developer 👨‍💻  
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miraq%C5%9Fin-a%C4%9Fah%C3%BCseynli-955966207/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MirAqshin2000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Currently working on:
+- Android App Development (Kotlin, Jetpack Compose, MVVM)
+
+### 🌱 Currently learning:
+- Clean Architecture
+- Dependency Injection (Hilt)
+- Coroutines & Flow
+
+### 📫 How to reach me:
+- Check out my LinkedIn profile: [View Profile](https://www.linkedin.com/in/miraq%C5%9Fin-a%C4%9Fah%C3%BCseynli-955966207/)
+- Email: **aqsinagahuseynov@gmail.com**
+
+---
+
+### 📊 GitHub Stats
+![MirAqshin2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirAqshin2000&show_icons=true&theme=dark)
